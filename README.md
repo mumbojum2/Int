@@ -1,4 +1,4 @@
-my interstellar <a>(https://int-ten-fawn.vercel.app/)</a>
+
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
@@ -141,3 +141,4 @@ If you encounter problems, open an issue on GitHub, and we'll address it promptl
 A huge thanks goes out to all of the people who have contributed to Interstellar.
 
 [![Contributors](https://contrib.rocks/image?repo=UseInterstellar/Interstellar)](https://github.com/UseInterstellar/Interstellar/graphs/contributors)
+<a>192.168.1.105:5000</a>
