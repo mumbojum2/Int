@@ -141,5 +141,4 @@ If you encounter problems, open an issue on GitHub, and we'll address it promptl
 A huge thanks goes out to all of the people who have contributed to Interstellar.
 
 [![Contributors](https://contrib.rocks/image?repo=UseInterstellar/Interstellar)](https://github.com/UseInterstellar/Interstellar/graphs/contributors)
-[!wow]
-(192.168.1.105:5000)
+[My Local App](http://192.168.1.105:5000)
